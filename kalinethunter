@@ -5,9 +5,12 @@ DIRECTORY="/data/data/com.termux/files/usr/share/figlet"
 if [ ! -d "$DIRECTORY" ]; then
 apt update && apt install figlet
 fi
-figlet -f mini    .....KALI-NETHUNTER.....
+figlet -f mini    .....KALI-NETHUNTER IN TERMUX.....
+figlet -f mini    .....  CYB3R3X3R......
 echo
-echo " ------------Hello This Is Hax4us (devil)-----------"
+echo " ------------Hello CYB3R3X3R HERE-----------"
+echo " ----------- Subscribe To Sniper Hackz YT Channel----"
+echo " ===========  Modified - Taken From Hax4us======= "
 echo
 echo
 echo "Select Your Phone Architecture"
